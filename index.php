@@ -8,5 +8,9 @@
 <body>
     <h1>Hello World Rise n Fucking Shine</h1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, voluptas fuga, facere nihil dicta ab est odio nesciunt neque amet, nisi blanditiis! Iusto aliquam maiores eaque cumque natus soluta provident.</p>
+   <ul> 
+    <li>satu</li>
+    <li>dua</li>
+   </ul>
 </body>
 </html>
